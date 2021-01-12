@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little introduction.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sarah Sayce. I'm from Pinehurst, North Carolina and a senior finishing my last semester at the College of Charleston. I am a Computer Information Systems major and a Data Science minor. I am excited to be in this class and collaborate on an open sourced project.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My academic interests include reommendation systems, AI & machine learning, and natural language processing. When I'm not working I love being outdoors & picking up different activities. 
 
-What else do you need?
+### Future Plans
 
-### My story
+This summer I plan on starting as a Software Consultant at Capgemini in Dallas, Texas. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
