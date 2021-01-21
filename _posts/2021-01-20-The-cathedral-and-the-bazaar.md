@@ -54,4 +54,14 @@ You should also be open to letting a project grow in new wasys.
 Moving on lets discuss some necessary preconditions for the bazaar style of development. 
 
 Its clear that you cannot start from the ground up in bazaar style. Its fine to test and debug and improve in this style, but to origonate is another thing. When you start community-building you need a plausible promise. The program doesn't have to work well it must only not fail and run, and convince potential co developers that it can evolve into something better. It is absolutley critical that the coordinator of a project be able to recognize the good ideas of others. 
-  
+ 
+Lets think about software development managers for a minute. They have five main functions, 
+1. To define goals so everyone goes in the same direction
+2. To monitor and make sure things aren't skipped
+3. To motivate people to do boring but necessary work
+4. To organize the deployment of people for productivity
+5. TO marshal resources for project. 
+
+In the context of FLOSS all of these jobs seem quite irrelevant. Most managers are playing defensive with resources but in an open source environment, the volunteer ethods tends to take care of the attack side of the marshalling automatically; people bring their own resources to the table. 
+
+The final lesson from this reading is that a happy programmer is one who is neither underutilized nor weighed down with ill-formulated goals and stressful process friction. Enjoyment predicts efficiency. 
