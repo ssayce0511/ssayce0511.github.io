@@ -2,7 +2,7 @@
 layout: post
 title: The Cathedral & The Bazaar
 subtitle: Reflections from the Reading
-cover-img: /assets/img/C+B.png
+cover-img: /assets/img/cover.jpg
 thumbnail-img: /assets/img/cathe.jpg
 share-img: /assets/img/path.jpg
 tags: [reading, reflection]
