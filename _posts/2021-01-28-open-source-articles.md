@@ -2,8 +2,6 @@
 layout: post
 title: Open Source Reflections
 subtitle: Reflections on Open Source in Today's World
-
-share-img: /assets/img/path.jpg
 tags: [reading, reflection, open-source]
 ---
 For this blog post, I read two articles from [this website](https://opensource.com/article/20/12/containers-101) and will share what I learned and my reflections on the articles. 
