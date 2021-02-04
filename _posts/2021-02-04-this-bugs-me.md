@@ -30,3 +30,14 @@ For my bug triage, I looked at Zulip's issue tracker and sorted to the newest is
 * [widgets: Prevent edits to /poll and /todo messages.](https://github.com/zulip/zulip/issues/17156)
 * [feature request: Add green/orange presence circles to PM/mention autocompletes](https://github.com/zulip/zulip/issues/17138) 
 
+I would rank them from high to low priority as such: 
+
+1. [Can't search history of shared-history private streams](https://github.com/zulip/zulip/issues/17183)
+2. [Can't close message edit form after internet connection is lost](https://github.com/zulip/zulip/issues/17190)
+3. [filter: Check if search operand is valid](https://github.com/zulip/zulip/issues/17175)
+4. [widgets: Prevent edits to /poll and /todo messages.](https://github.com/zulip/zulip/issues/17156)
+5. [feature request: Add green/orange presence circles to PM/mention autocompletes](https://github.com/zulip/zulip/issues/17138) 
+
+I rank them in this order because 5. is simply a feature request, this doesn't affect the overall functioning of the project. 4. is also a simple edit to prevent edits to certain widgets with an error message. 3. Is of medium priority since it seemed to be fixed quickly, but searching with an invalid operand leads to a 400 error which is not desireable. 1. and 2. directly affect how the users interact with Zulip and the 1st regarding search history seems to cause a lot of confusion with users while 2. is also a high priority because in the issue thread, there are problems trying to re create this issue again. 
+
+
