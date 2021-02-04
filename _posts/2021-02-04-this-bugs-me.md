@@ -21,3 +21,12 @@ I have created an account on Github, and a zulip account while also joining the 
 I chose [this](https://github.com/zulip/zulip/pull/16725) bug which actually has a pending review PR. In this bug, in user settings when you would pick a favorite date a calendar widget pops up. If you press the esc button you exit back to the main home page of zulip but the calendar widget still appears. I was able to recreate this bug exactly as they described. The only way to get rid of this widget is by reloding the page or by clicking anywhere else on the screen. You can also select a date and it will be entered into the sytsem and appear in the field when you return to the user settings page. I will decline to leave a comment on this issue because the Pull Request has passed all checks and is only pending review. 
 
 ### EX. 6.7 Find five bug reports in the new state, and attempt to triage them according to the rules above. Your goal is to do as much as you possibly can, in a short period of time, to make those bug reports as useful as possible to the developer to whom they are assigned. (Note: be sure to follow any triage rules that your project may have defined. If there are no set triage rules, be sure to announce your intentions on the project's mailing list, so that developers can provide you some guidelines if they choose.)
+
+For my bug triage, I looked at Zulip's issue tracker and sorted to the newest issues. I decided to pick these five: 
+
+* [Can't close message edit form after internet connection is lost](https://github.com/zulip/zulip/issues/17190)
+* [Can't search history of shared-history private streams](https://github.com/zulip/zulip/issues/17183)
+* [filter: Check if search operand is valid](https://github.com/zulip/zulip/issues/17175)
+* [widgets: Prevent edits to /poll and /todo messages.](https://github.com/zulip/zulip/issues/17156)
+* [feature request: Add green/orange presence circles to PM/mention autocompletes](https://github.com/zulip/zulip/issues/17138) 
+
