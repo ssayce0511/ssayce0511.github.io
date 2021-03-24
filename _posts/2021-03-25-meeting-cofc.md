@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Meeting the Community
+subtitle: CofC Alumni Symposium 
+---
+
+I had the opportunity to meet some fellow CS CofC alumni at a meeting last week. There was a nice array on the panel, with one graduate from the early 2000's and two others from 2019 and 2020. They all had slightly different backgrounds and interests, one being more systems engineering, product design, and network security. It was interesting to see all the different experinces they took from their time at the college of charleston. The main topic of this Q and A session was to discuss how life has changed with working from home. Since a lot of work is now moving to virtual only in the tech world, we need to modify how we network and socialize within the tech community. 
+
+This means beefing up a linked in profile and being active in whatever means of socialization your work gives you. One example was an always open chat room for employees to meet up in. Slack and other work based chat services make it easy for people to work together remotely. Personally I will have to start my job virtually, but thankfully my company that does consulting will eventually move back in person to some capcity. Although with COVID-19 Capgemini has changed their organizational structure slightly so now consultants are assigned to clients close to them. This is more environmentally friendly and also saves money. 
+
+I asked the three panelists if they had any thoughts on graduate school. The oldest who had already been to grad school really thought it didn't make much of a difference unless you did it early. If you like school it could be a nice stepping stone to another form of learning and lead you to higher paid initial positions. Sometimes it is harder to start working and then go back to grad school. One panelist had never thought of graduate school because in the design world specifically, and could be trending towards this, where your portfolio matters more than your book smarts. The equivalent for a software engineer could be a GitHub page or public repository of some kind. In summary this meeting showed that there is no "correct" path to take after College of Charlesto, but there are many roads to success. 
